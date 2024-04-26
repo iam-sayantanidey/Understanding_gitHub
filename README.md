@@ -1,3 +1,3 @@
 # Understanding_gitHub
 
-Sayantani says tha github is an amazing tool
+Sayantani says that github is an amazing tool.
